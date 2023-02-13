@@ -1,7 +1,7 @@
-# Book-Finder-
+# Book-Finder-📚
 Discover your next favorite book with the Book Finder application! This app uses the Google Books API to fetch information about any book you search for.
 
-## Instructions
+## Instructions 👈
 
 Search for books using the title, author, or ISBN number by entering the relevant information into the search bar.
 
@@ -12,7 +12,7 @@ Check out a picture of the book and follow the external link to see more on Goog
 With these simple instructions, discovering your next favorite book has never been easier. Give it a try!
 
 
-## Technical Implementations
+## Technical Implementations 📝
 
 The Book Finder application is built using JavaScript and leverages the Google Books API to provide a seamless user experience. Here are some of the key technologies used:
 
